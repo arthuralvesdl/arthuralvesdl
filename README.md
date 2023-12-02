@@ -1,7 +1,7 @@
 ## Olá eu sou o Arthur Alves!
 
 - 🔭 Hoje trabalho como Desenvolvedor front-end e Mobile
-- 🌱 Estudando Swift ...
+- 🌱 Estudando Swift
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
