@@ -1,7 +1,4 @@
-## Olá eu sou o Arthur Alves!
-
-- Desenvolvedor Mobile
-
+## Hi there! I'm Arthur Alves!
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="Arthur-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
@@ -20,3 +17,19 @@
   <a href="https://www.linkedin.com/in/arthuralvesdl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+## About Me
+
+I'm a Mobile Software Engineer passionate about Flutter, Swift, Kotlin, and software architecture. I enjoy building well-structured, scalable applications with a strong focus on user experience. I'm always looking to grow technically and explore new approaches in mobile development.
+
+- 📱 Experience with Flutter, SwiftUI, Kotlin, Jetpack Compose, and Kotlin Multiplatform  
+- 🧱 Strong focus on Clean Architecture and best development practices  
+- 📚 Continuous learning in iOS, Android, security, and software design  
+
+💬 Ask me about:
+
+- Flutter, Dart, and mobile architecture  
+- Swift, SwiftUI, and iOS development  
+- Kotlin, Jetpack Compose, and Android development  
+- State management, Firebase, and clean code  
+
